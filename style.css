@@ -1,0 +1,23 @@
+body
+{
+	font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+}
+.bg
+{
+	background-image: url('is.jpg');
+	height: 100%; 
+	width: 100%;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 64px;
+}
+.float-right
+{
+	float: right;
+}
+.float-left
+{
+	float: left;
+}
